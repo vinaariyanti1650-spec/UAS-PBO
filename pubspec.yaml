@@ -1,0 +1,7 @@
+name: project_uas
+description: Sistem Toko Vina - Aplikasi manajemen toko berbasis CLI (UAS Dart OOP)
+version: 1.0.0
+publish_to: 'none'
+
+environment:
+  sdk: '>=2.19.0 <4.0.0'
